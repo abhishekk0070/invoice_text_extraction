@@ -1,0 +1,36 @@
+{
+    "Store": "Walmart >{<.",
+    "Address": "Mor JIM JAMES",
+    "Items": [
+        {
+            "Description": "HDMI 6FT CABLE",
+            "Price": "18.99"
+        },
+        {
+            "Description": "HARMONY UNV. REMOTE",
+            "Price": "189.99"
+        },
+        {
+            "Description": "SUBTOTAL",
+            "Price": "208.98"
+        },
+        {
+            "Description": "TAX",
+            "Price": "13.37"
+        },
+        {
+            "Description": "TOTAL",
+            "Price": "222.35"
+        },
+        {
+            "Description": "TEND",
+            "Price": "222.35"
+        }
+    ],
+    "Subtotal": "208.98",
+    "Tax": "13.37",
+    "Total": "208.98",
+    "Tendered": "222.35",
+    "Date": "05/30/2020",
+    "Time": "12:20 AM"
+}
